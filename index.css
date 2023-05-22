@@ -9,12 +9,12 @@
 }
 .video-container > iframe {
     margin-bottom: 1rem;
-    width: 100rem;
-    height: 50rem;
+    width: 80rem;
+    height: 40rem;
 }
 
 .buttons {
-    width: 100rem;
+    width: 80rem;
     display: flex;
     justify-content: end;
 }
