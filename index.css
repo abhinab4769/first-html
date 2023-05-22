@@ -1,3 +1,24 @@
+.container {
+    width: 100%;
+}
+.content {
+    padding: 2rem;
+}
+.video-container {
+    width: 50rem;
+}
+.video-container > iframe {
+    margin-bottom: 1rem;
+    width: 100rem;
+    height: 50rem;
+}
+
+.buttons {
+    width: 100rem;
+    display: flex;
+    justify-content: end;
+}
+
 .subscribe-button {
     background-color: rgb(200, 0, 0);
     color: white;
